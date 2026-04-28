@@ -1,4 +1,3 @@
-# end-to-end-machine-learning-pipeline
 # End to End Machine Learning Pipeline
 
 ## Project Summary
