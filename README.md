@@ -6,6 +6,14 @@ This project demonstrates a complete supervised machine learning workflow, from 
 
 The project includes data cleaning, exploratory data analysis, feature engineering, train and test split, cross validation, logistic regression, random forest, XGBoost, model evaluation, calibration assessment, feature importance, SHAP based interpretation, and visualization.
 
+## Dataset
+
+This project uses a diabetes prediction dataset for binary classification. The outcome variable indicates whether an individual has diabetes. Predictors may include demographic, clinical, and lifestyle related variables such as age, gender, body mass index, hypertension, heart disease, smoking history, HbA1c level, and blood glucose level.
+
+The goal is to predict diabetes status and compare interpretable and machine learning based classification models.
+
+Dataset source: Kaggle Diabetes Prediction Dataset.
+
 ## Objectives
 
 The main objectives of this project are to:
@@ -96,4 +104,4 @@ The project includes visualizations for outcome distribution, predictor distribu
 
 ## Project Status
 
-This project is currently under development.
+This project is currently under development. The next step is to build the notebook workflow for data loading, cleaning, exploratory analysis, feature engineering, model training, evaluation, calibration, and interpretation.
