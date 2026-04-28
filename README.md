@@ -104,4 +104,10 @@ The project includes visualizations for outcome distribution, predictor distribu
 
 ## Project Status
 
-This project is currently under development. The next step is to build the notebook workflow for data loading, cleaning, exploratory analysis, feature engineering, model training, evaluation, calibration, and interpretation.
+## Project Status
+
+This project includes a completed Jupyter Notebook workflow for data loading, data cleaning, exploratory analysis, feature engineering, train and test split, preprocessing, logistic regression, random forest, XGBoost, cross-validation, model evaluation, calibration, feature importance, SHAP interpretation, visualization, and final summary.
+
+The main analysis notebook is available here:
+
+notebooks/01_machine_learning_pipeline.ipynb
