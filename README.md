@@ -104,8 +104,6 @@ The project includes visualizations for outcome distribution, predictor distribu
 
 ## Project Status
 
-## Project Status
-
 This project includes a completed Jupyter Notebook workflow for data loading, data cleaning, exploratory analysis, feature engineering, train and test split, preprocessing, logistic regression, random forest, XGBoost, cross-validation, model evaluation, calibration, feature importance, SHAP interpretation, visualization, and final summary.
 
 The main analysis notebook is available here:
